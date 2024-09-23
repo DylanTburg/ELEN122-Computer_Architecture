@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="l7_TB_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="l7_TB" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="112.451 ns"></ZoomEndTime>
+      <Cursor1Time time="84.060 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="197"></NameColumnWidth>
+      <ValueColumnWidth column_width="90"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="38" />
+   <wvobject fp_name="/l7_TB/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/reg_en" type="logic">
+      <obj_property name="ElementShortName">reg_en</obj_property>
+      <obj_property name="ObjectShortName">reg_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/reg_src1" type="array">
+      <obj_property name="ElementShortName">reg_src1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">reg_src1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/reg_src2" type="array">
+      <obj_property name="ElementShortName">reg_src2[3:0]</obj_property>
+      <obj_property name="ObjectShortName">reg_src2[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/imm" type="array">
+      <obj_property name="ElementShortName">imm[3:0]</obj_property>
+      <obj_property name="ObjectShortName">imm[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/imm_sel" type="logic">
+      <obj_property name="ElementShortName">imm_sel</obj_property>
+      <obj_property name="ObjectShortName">imm_sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/dp_en" type="logic">
+      <obj_property name="ElementShortName">dp_en</obj_property>
+      <obj_property name="ObjectShortName">dp_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/add_sub" type="logic">
+      <obj_property name="ElementShortName">add_sub</obj_property>
+      <obj_property name="ObjectShortName">add_sub</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/mem_rd" type="logic">
+      <obj_property name="ElementShortName">mem_rd</obj_property>
+      <obj_property name="ObjectShortName">mem_rd</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/mem_wr" type="logic">
+      <obj_property name="ElementShortName">mem_wr</obj_property>
+      <obj_property name="ObjectShortName">mem_wr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/data_sel" type="logic">
+      <obj_property name="ElementShortName">data_sel</obj_property>
+      <obj_property name="ObjectShortName">data_sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/reg_dst" type="array">
+      <obj_property name="ElementShortName">reg_dst[3:0]</obj_property>
+      <obj_property name="ObjectShortName">reg_dst[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/wrx" type="logic">
+      <obj_property name="ElementShortName">wrx</obj_property>
+      <obj_property name="ObjectShortName">wrx</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/halt" type="logic">
+      <obj_property name="ElementShortName">halt</obj_property>
+      <obj_property name="ObjectShortName">halt</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/ctrl_id_ex_in" type="array">
+      <obj_property name="ElementShortName">ctrl_id_ex_in[9:0]</obj_property>
+      <obj_property name="ObjectShortName">ctrl_id_ex_in[9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/ctrl_id_ex_out" type="array">
+      <obj_property name="ElementShortName">ctrl_id_ex_out[9:0]</obj_property>
+      <obj_property name="ObjectShortName">ctrl_id_ex_out[9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/ctrl_ex_wb_in" type="array">
+      <obj_property name="ElementShortName">ctrl_ex_wb_in[5:0]</obj_property>
+      <obj_property name="ObjectShortName">ctrl_ex_wb_in[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/ctrl_ex_wb_out" type="array">
+      <obj_property name="ElementShortName">ctrl_ex_wb_out[5:0]</obj_property>
+      <obj_property name="ObjectShortName">ctrl_ex_wb_out[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/pc_out" type="array">
+      <obj_property name="ElementShortName">pc_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">pc_out[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/instr" type="array">
+      <obj_property name="ElementShortName">instr[15:0]</obj_property>
+      <obj_property name="ObjectShortName">instr[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/rf_2" type="array">
+      <obj_property name="ElementShortName">rf_2[15:0]</obj_property>
+      <obj_property name="ObjectShortName">rf_2[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/rf_1" type="array">
+      <obj_property name="ElementShortName">rf_1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">rf_1[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/se_imm" type="array">
+      <obj_property name="ElementShortName">se_imm[15:0]</obj_property>
+      <obj_property name="ObjectShortName">se_imm[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/imm_mux_out" type="array">
+      <obj_property name="ElementShortName">imm_mux_out[15:0]</obj_property>
+      <obj_property name="ObjectShortName">imm_mux_out[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/alu_out" type="array">
+      <obj_property name="ElementShortName">alu_out[15:0]</obj_property>
+      <obj_property name="ObjectShortName">alu_out[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/dmem_out" type="array">
+      <obj_property name="ElementShortName">dmem_out[15:0]</obj_property>
+      <obj_property name="ObjectShortName">dmem_out[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/data_mux_out" type="array">
+      <obj_property name="ElementShortName">data_mux_out[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_mux_out[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/a_out_data" type="array">
+      <obj_property name="ElementShortName">a_out_data[15:0]</obj_property>
+      <obj_property name="ObjectShortName">a_out_data[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/b_out_data" type="array">
+      <obj_property name="ElementShortName">b_out_data[15:0]</obj_property>
+      <obj_property name="ObjectShortName">b_out_data[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/g_out_data" type="array">
+      <obj_property name="ElementShortName">g_out_data[15:0]</obj_property>
+      <obj_property name="ObjectShortName">g_out_data[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/dp_out_data" type="array">
+      <obj_property name="ElementShortName">dp_out_data[15:0]</obj_property>
+      <obj_property name="ObjectShortName">dp_out_data[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/RF/datastorage[0]" type="array">
+      <obj_property name="ElementShortName">[0][15:0]</obj_property>
+      <obj_property name="ObjectShortName">[0][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/RF/datastorage[1]" type="array">
+      <obj_property name="ElementShortName">[1][15:0]</obj_property>
+      <obj_property name="ObjectShortName">[1][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/RF/datastorage[2]" type="array">
+      <obj_property name="ElementShortName">[2][15:0]</obj_property>
+      <obj_property name="ObjectShortName">[2][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/RF/datastorage[3]" type="array">
+      <obj_property name="ElementShortName">[3][15:0]</obj_property>
+      <obj_property name="ObjectShortName">[3][15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/imem_out" type="array">
+      <obj_property name="ElementShortName">imem_out[15:0]</obj_property>
+      <obj_property name="ObjectShortName">imem_out[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/l7_TB/RF/datastorage[4]" type="array">
+      <obj_property name="ElementShortName">[4][15:0]</obj_property>
+      <obj_property name="ObjectShortName">[4][15:0]</obj_property>
+   </wvobject>
+</wave_config>

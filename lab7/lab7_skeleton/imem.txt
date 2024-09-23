@@ -1,0 +1,20 @@
+2000 // sub r0, r0, r0
+9000
+9000
+7006 // addi r0, r0, 6
+9000
+9000
+3100 // add r1, r0, r0
+9000
+9000
+3211 // add r2, r1, r1
+9000
+9000
+3222 // add r2, r2, r2
+9000
+9000
+0320 // load r3, r2(=48)
+8022 // store r2, r2
+9000 // needed for proper display
+4030 // disp r3
+5000 // halt

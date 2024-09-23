@@ -1,0 +1,15 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+Z:/ELEN122/lab7/lab7/lab7.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,
+Z:/ELEN122/lab7/lab7_skeleton/A.v,1678174548,verilog,,Z:/ELEN122/lab7/lab7_skeleton/ALU.v,,A,,,,,,,,
+Z:/ELEN122/lab7/lab7_skeleton/ALU.v,1645059710,verilog,,Z:/ELEN122/lab7/lab7_skeleton/PC.v,,ALU,,,,,,,,
+Z:/ELEN122/lab7/lab7_skeleton/PC.v,1645059710,verilog,,Z:/ELEN122/lab7/lab7_skeleton/SE_16.v,,PC,,,,,,,,
+Z:/ELEN122/lab7/lab7_skeleton/SE_16.v,1645059710,verilog,,Z:/ELEN122/lab7/lab7_skeleton/id.v,,SE_16,,,,,,,,
+Z:/ELEN122/lab7/lab7_skeleton/id.v,1709680185,verilog,,Z:/ELEN122/lab7/lab7_skeleton/l7_RF.v,,id,,,,,,,,
+Z:/ELEN122/lab7/lab7_skeleton/l7_RF.v,1678125014,verilog,,Z:/ELEN122/lab7/lab7_skeleton/l7_dMEM.v,,l7_RF,,,,,,,,
+Z:/ELEN122/lab7/lab7_skeleton/l7_TB.v,1709684056,verilog,,,,l7_TB,,,,,,,,
+Z:/ELEN122/lab7/lab7_skeleton/l7_dMEM.v,1678241900,verilog,,Z:/ELEN122/lab7/lab7_skeleton/l7_iMEM.v,,l7_dMEM,,,,,,,,
+Z:/ELEN122/lab7/lab7_skeleton/l7_iMEM.v,1678165460,verilog,,Z:/ELEN122/lab7/lab7_skeleton/mux_2_to_1.v,,l7_iMEM,,,,,,,,
+Z:/ELEN122/lab7/lab7_skeleton/mux_2_to_1.v,1645059710,verilog,,Z:/ELEN122/lab7/lab7_skeleton/l7_TB.v,,mux_2_to_1,,,,,,,,

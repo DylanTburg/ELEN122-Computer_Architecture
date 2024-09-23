@@ -1,0 +1,50 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Tue Mar  5 10:36:04 2024
+# Process ID: 9420
+# Current directory: Z:/ELEN122/lab7/lab7
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11504 Z:\ELEN122\lab7\lab7\lab7.xpr
+# Log file: Z:/ELEN122/lab7/lab7/vivado.log
+# Journal file: Z:/ELEN122/lab7/lab7\vivado.jou
+# Running On: winvdi2007, OS: Windows, CPU Frequency: 3093 MHz, CPU Physical cores: 4, Host memory: 25768 MB
+#-----------------------------------------------------------
+start_gui
+open_project Z:/ELEN122/lab7/lab7/lab7.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source l7_TB.tcl
+relaunch_sim
+relaunch_sim
+relaunch_sim
+close_sim
+launch_simulation
+source l7_TB.tcl
+close_sim
+launch_simulation
+source l7_TB.tcl
+close_sim
+launch_simulation
+source l7_TB.tcl
+close_sim
+launch_simulation
+source l7_TB.tcl
+close_sim
+launch_simulation
+source l7_TB.tcl
+close_sim
+launch_simulation
+source l7_TB.tcl
+relaunch_sim
+close_sim
+launch_simulation
+source l7_TB.tcl
+relaunch_sim
+close_sim
+launch_simulation
+source l7_TB.tcl
+close_sim
+launch_simulation
+source l7_TB.tcl
+relaunch_sim

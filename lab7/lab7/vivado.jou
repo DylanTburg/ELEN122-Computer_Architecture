@@ -1,0 +1,80 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Tue Mar  5 15:53:49 2024
+# Process ID: 10528
+# Current directory: Z:/ELEN122/lab7/lab7
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11544 Z:\ELEN122\lab7\lab7\lab7.xpr
+# Log file: Z:/ELEN122/lab7/lab7/vivado.log
+# Journal file: Z:/ELEN122/lab7/lab7\vivado.jou
+# Running On: win400605, OS: Windows, CPU Frequency: 2995 MHz, CPU Physical cores: 6, Host memory: 16853 MB
+#-----------------------------------------------------------
+start_gui
+open_project Z:/ELEN122/lab7/lab7/lab7.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config Z:/ELEN122/lab7/lab7/l7_TB_behav.wcfg
+source l7_TB.tcl
+close_sim
+launch_simulation
+open_wave_config Z:/ELEN122/lab7/lab7/l7_TB_behav.wcfg
+source l7_TB.tcl
+close_sim
+launch_simulation
+open_wave_config Z:/ELEN122/lab7/lab7/l7_TB_behav.wcfg
+source l7_TB.tcl
+close_sim
+launch_simulation
+open_wave_config Z:/ELEN122/lab7/lab7/l7_TB_behav.wcfg
+source l7_TB.tcl
+save_wave_config {Z:/ELEN122/lab7/lab7/l7_TB_behav.wcfg}
+close_sim
+launch_simulation
+open_wave_config Z:/ELEN122/lab7/lab7/l7_TB_behav.wcfg
+source l7_TB.tcl
+close_sim
+launch_simulation
+open_wave_config Z:/ELEN122/lab7/lab7/l7_TB_behav.wcfg
+source l7_TB.tcl
+close_sim
+launch_simulation
+open_wave_config Z:/ELEN122/lab7/lab7/l7_TB_behav.wcfg
+source l7_TB.tcl
+close_sim
+launch_simulation
+open_wave_config Z:/ELEN122/lab7/lab7/l7_TB_behav.wcfg
+source l7_TB.tcl
+close_sim
+launch_simulation
+open_wave_config Z:/ELEN122/lab7/lab7/l7_TB_behav.wcfg
+source l7_TB.tcl
+close_sim
+launch_simulation
+open_wave_config Z:/ELEN122/lab7/lab7/l7_TB_behav.wcfg
+source l7_TB.tcl
+close_sim
+launch_simulation
+open_wave_config Z:/ELEN122/lab7/lab7/l7_TB_behav.wcfg
+source l7_TB.tcl
+close_sim
+launch_simulation
+open_wave_config Z:/ELEN122/lab7/lab7/l7_TB_behav.wcfg
+source l7_TB.tcl
+close_sim
+launch_simulation
+open_wave_config Z:/ELEN122/lab7/lab7/l7_TB_behav.wcfg
+source l7_TB.tcl
+close_sim
+launch_simulation
+open_wave_config Z:/ELEN122/lab7/lab7/l7_TB_behav.wcfg
+source l7_TB.tcl
+close_sim
+launch_simulation
+open_wave_config Z:/ELEN122/lab7/lab7/l7_TB_behav.wcfg
+source l7_TB.tcl
+close_sim
+launch_simulation
+open_wave_config Z:/ELEN122/lab7/lab7/l7_TB_behav.wcfg
+source l7_TB.tcl
+close_sim
