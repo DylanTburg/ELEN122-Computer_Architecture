@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../lab1.srcs/sim_1/imports/lab1/ThreeBitCounter.v" \
+"//samba2.engr.scu.edu/dthornburg/ECC/Desktop/tb_ThreeBitCounter.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

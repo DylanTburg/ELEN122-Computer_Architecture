@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_ThreeBitCounter_behav/xsimk.exe -simmode gui -wdb tb_ThreeBitCounter_behav.wdb -simrunnum 0 -socket 55650
+Design successfully loaded
+Design Loading Memory Usage: 17460 KB (Peak: 17460 KB)
+Design Loading CPU Usage: 61 ms
+Simulation completed
+Simulation Memory Usage: 17740 KB (Peak: 17740 KB)
+Simulation CPU Usage: 61 ms

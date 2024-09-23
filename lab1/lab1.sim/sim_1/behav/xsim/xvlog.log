@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "Z:/ELEN122/lab1/lab1.srcs/sim_1/imports/lab1/ThreeBitCounter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ThreeBitCounter
+INFO: [VRFC 10-2263] Analyzing Verilog file "//samba2.engr.scu.edu/dthornburg/ECC/Desktop/tb_ThreeBitCounter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_ThreeBitCounter
