@@ -1,0 +1,16 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "Z:/ELEN122/lab2/given verilog files/A.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module A
+INFO: [VRFC 10-2263] Analyzing Verilog file "Z:/ELEN122/lab2/given verilog files/RF.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RF
+INFO: [VRFC 10-2263] Analyzing Verilog file "Z:/ELEN122/lab2/given verilog files/bin_7seg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bin_7seg
+INFO: [VRFC 10-2263] Analyzing Verilog file "Z:/ELEN122/lab2/given verilog files/display_driver.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module display_driver
+INFO: [VRFC 10-2263] Analyzing Verilog file "Z:/ELEN122/lab2/given verilog files/l2_adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module l2_adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "Z:/ELEN122/lab2/given verilog files/l2_sm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module l2_SM
+INFO: [VRFC 10-2263] Analyzing Verilog file "Z:/ELEN122/lab2/given verilog files/modified_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module modified_mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "Z:/ELEN122/lab2/given verilog files/l2_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module l2_tb

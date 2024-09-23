@@ -1,0 +1,36 @@
+Vivado Simulator v2022.1
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: C:/Apps/Xilinx/Vivado/2022.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot l2_tb_behav xil_defaultlib.l2_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "Z:/ELEN122/lab2/given verilog files/RF.v" Line 1. Module RF doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "Z:/ELEN122/lab2/given verilog files/bin_7seg.v" Line 1. Module bin_7seg doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "Z:/ELEN122/lab2/given verilog files/bin_7seg.v" Line 1. Module bin_7seg doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "Z:/ELEN122/lab2/given verilog files/bin_7seg.v" Line 1. Module bin_7seg doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "Z:/ELEN122/lab2/given verilog files/bin_7seg.v" Line 1. Module bin_7seg doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "Z:/ELEN122/lab2/given verilog files/bin_7seg.v" Line 1. Module bin_7seg doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "Z:/ELEN122/lab2/given verilog files/A.v" Line 1. Module A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "Z:/ELEN122/lab2/given verilog files/A.v" Line 1. Module A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "Z:/ELEN122/lab2/given verilog files/RF.v" Line 1. Module RF doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "Z:/ELEN122/lab2/given verilog files/bin_7seg.v" Line 1. Module bin_7seg doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "Z:/ELEN122/lab2/given verilog files/bin_7seg.v" Line 1. Module bin_7seg doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "Z:/ELEN122/lab2/given verilog files/bin_7seg.v" Line 1. Module bin_7seg doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "Z:/ELEN122/lab2/given verilog files/bin_7seg.v" Line 1. Module bin_7seg doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "Z:/ELEN122/lab2/given verilog files/bin_7seg.v" Line 1. Module bin_7seg doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "Z:/ELEN122/lab2/given verilog files/A.v" Line 1. Module A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "Z:/ELEN122/lab2/given verilog files/A.v" Line 1. Module A doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.l2_SM
+Compiling module xil_defaultlib.bin_7seg
+Compiling module xil_defaultlib.display_driver
+Compiling module xil_defaultlib.RF
+Compiling module xil_defaultlib.A
+Compiling module xil_defaultlib.l2_adder
+Compiling module xil_defaultlib.modified_mux
+Compiling module xil_defaultlib.l2_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot l2_tb_behav
