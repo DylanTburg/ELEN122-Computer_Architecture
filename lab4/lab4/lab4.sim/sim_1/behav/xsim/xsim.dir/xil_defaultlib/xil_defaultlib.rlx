@@ -1,0 +1,16 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+Z:/ELEN122/lab4/lab4/lab4.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,
+Z:/ELEN122/lab4/verilog files/A.v,1644455742,verilog,,Z:/ELEN122/lab4/verilog files/RF.v,,A,,,,,,,,
+Z:/ELEN122/lab4/verilog files/RF.v,1644455742,verilog,,Z:/ELEN122/lab4/verilog files/bin_7seg.v,,RF,,,,,,,,
+Z:/ELEN122/lab4/verilog files/bin_7seg.v,1644455742,verilog,,Z:/ELEN122/lab4/verilog files/display_driver.v,,bin_7seg,,,,,,,,
+Z:/ELEN122/lab4/verilog files/display_driver.v,1644455742,verilog,,Z:/ELEN122/lab4/verilog files/l2_adder.v,,display_driver,,,,,,,,
+Z:/ELEN122/lab4/verilog files/l2_adder.v,1644455742,verilog,,Z:/ELEN122/lab4/verilog files/l4_MEM.v,,l2_adder,,,,,,,,
+Z:/ELEN122/lab4/verilog files/l4_MEM.v,1644456258,verilog,,Z:/ELEN122/lab4/verilog files/l4_PC.v,,l4_MEM,,,,,,,,
+Z:/ELEN122/lab4/verilog files/l4_PC.v,1644456286,verilog,,Z:/ELEN122/lab4/verilog files/l4_SM.v,,l4_PC,,,,,,,,
+Z:/ELEN122/lab4/verilog files/l4_SM.v,1707864331,verilog,,Z:/ELEN122/lab4/verilog files/modified_mux.v,,l4_SM,,,,,,,,
+Z:/ELEN122/lab4/verilog files/l4_tb.v,1707866201,verilog,,,,l4_tb,,,,,,,,
+Z:/ELEN122/lab4/verilog files/modified_mux.v,1644455742,verilog,,Z:/ELEN122/lab4/verilog files/mux_2_to_1.v,,modified_mux,,,,,,,,
+Z:/ELEN122/lab4/verilog files/mux_2_to_1.v,1644455742,verilog,,Z:/ELEN122/lab4/verilog files/l4_tb.v,,mux_2_to_1,,,,,,,,
