@@ -1,0 +1,18 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+Z:/ELEN122/lab6/lab6/lab6.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,
+Z:/ELEN122/lab6/skeleton/A.v,1646285188,verilog,,Z:/ELEN122/lab6/skeleton/ALU.v,,A,,,,,,,,
+Z:/ELEN122/lab6/skeleton/ALU.v,1646285188,verilog,,Z:/ELEN122/lab6/skeleton/SE_16.v,,ALU,,,,,,,,
+Z:/ELEN122/lab6/skeleton/SE_16.v,1646285188,verilog,,Z:/ELEN122/lab6/skeleton/data_mux.v,,SE_16,,,,,,,,
+Z:/ELEN122/lab6/skeleton/data_mux.v,1646285188,verilog,,Z:/ELEN122/lab6/skeleton/imm_mux.v,,data_mux,,,,,,,,
+Z:/ELEN122/lab6/skeleton/imm_mux.v,1646285188,verilog,,Z:/ELEN122/lab6/skeleton/l5_RF.v,,imm_mux,,,,,,,,
+Z:/ELEN122/lab6/skeleton/l5_RF.v,1646285188,verilog,,Z:/ELEN122/lab6/skeleton/l6_MEM.v,,l5_RF,,,,,,,,
+Z:/ELEN122/lab6/skeleton/l6_MEM.v,1646285188,verilog,,Z:/ELEN122/lab6/skeleton/l6_PC.v,,l6_MEM,,,,,,,,
+Z:/ELEN122/lab6/skeleton/l6_PC.v,1646285188,verilog,,Z:/ELEN122/lab6/skeleton/l6_SM.v,,l6_PC,,,,,,,,
+Z:/ELEN122/lab6/skeleton/l6_SM.v,1709061219,verilog,,Z:/ELEN122/lab6/skeleton/l6_branch.v,,l6_SM,,,,,,,,
+Z:/ELEN122/lab6/skeleton/l6_TB.v,1709001733,verilog,,,,l6_TB,,,,,,,,
+Z:/ELEN122/lab6/skeleton/l6_branch.v,1708939615,verilog,,Z:/ELEN122/lab6/skeleton/l6_branchPC.v,,l6_branch,,,,,,,,
+Z:/ELEN122/lab6/skeleton/l6_branchPC.v,1709072840,verilog,,Z:/ELEN122/lab6/skeleton/mux_2_to_1.v,,l6_branchPC,,,,,,,,
+Z:/ELEN122/lab6/skeleton/mux_2_to_1.v,1646285188,verilog,,Z:/ELEN122/lab6/skeleton/l6_TB.v,,mux_2_to_1,,,,,,,,

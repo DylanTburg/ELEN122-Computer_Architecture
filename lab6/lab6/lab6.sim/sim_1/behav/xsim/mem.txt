@@ -1,0 +1,27 @@
+2000 // create r0=0 in case i need it
+2444 // sub r4, r4,r4; r4= number
+2333 // sub r3,r3,r3; r3=count
+2222 // sub r2,r2,r2; r2 = address
+2111 // sub r1, r1,r1; r1= accum = 0
+9012 // branch to dis (skip two instruction) if r1 = 0
+7115 // add 5 into r1
+3111 // multiply r1*2 = 10
+7226 // add 6 into r2
+3222 // mult r2 by 2 (12)
+3222 // mult r2 by 2 (24)
+3222 // mult r2 by 2 (48)
+0320 // count = <value at address>
+
+//begin while loop
+
+9035 // skip loop if r3 == 0
+7221 // add 1 to r2 (address)
+0420 // number = <value at address>
+3114 // add r1, r1, r4; accum +=number
+6331 // subi r3, r3, 1
+A03b // bnz; branch up 4 if r3 !=0
+
+//end while loop
+
+4010 // displayr1/accum
+5000 // HALT!
