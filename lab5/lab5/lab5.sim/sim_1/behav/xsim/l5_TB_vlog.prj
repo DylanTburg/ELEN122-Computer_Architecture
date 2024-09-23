@@ -1,0 +1,19 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../Verilog Files/A.v" \
+"../../../../../Verilog Files/ALU.v" \
+"../../../../../Verilog Files/PC.v" \
+"../../../../../Verilog Files/SE_16.v" \
+"../../../../../Verilog Files/data_mux.v" \
+"../../../../../Verilog Files/imm_mux.v" \
+"../../../../../Verilog Files/l5_MEM.v" \
+"../../../../../Verilog Files/l5_RF.v" \
+"../../../../../Verilog Files/l5_SM.v" \
+"../../../../../Verilog Files/mux_2_to_1.v" \
+"../../../../../Verilog Files/l5_TB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

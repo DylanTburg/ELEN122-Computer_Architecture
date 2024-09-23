@@ -1,0 +1,19 @@
+2000 // sub r0, r0, r0 
+2111 // sub r1, r1, r1 
+2222 // sub r2, r2, r2 
+2333 // sub r3, r3, r3
+// Do this to make sure r0-r3 all have nothing in them
+7006 // addi r0, r0, 6
+3000 // add r0, r0, r0 (12)
+3000 // add r0, r0, r0 (24)
+3000 // add r0, r0, r0 (48)
+0100 // load r1, r0 (48)
+7001 // addi r0, r0, 1
+0200 // load r2, r0 (49)
+7001 // addi r0, r0, 1
+0300 // load r3, r0 (50)
+3221 // add val1 and val2
+8032 // store r2 at r3 value
+3323 // add r3 and r2
+4030 // display r3 (now the sum of r3,r2,r1)
+5000 // HALT! 

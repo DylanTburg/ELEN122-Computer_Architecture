@@ -1,0 +1,16 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+Z:/ELEN122/lab5/Verilog Files/A.v,1645059754,verilog,,Z:/ELEN122/lab5/Verilog Files/ALU.v,,A,,,,,,,,
+Z:/ELEN122/lab5/Verilog Files/ALU.v,1645059754,verilog,,Z:/ELEN122/lab5/Verilog Files/PC.v,,ALU,,,,,,,,
+Z:/ELEN122/lab5/Verilog Files/PC.v,1645059754,verilog,,Z:/ELEN122/lab5/Verilog Files/SE_16.v,,PC,,,,,,,,
+Z:/ELEN122/lab5/Verilog Files/SE_16.v,1708468156,verilog,,Z:/ELEN122/lab5/Verilog Files/data_mux.v,,SE_16,,,,,,,,
+Z:/ELEN122/lab5/Verilog Files/data_mux.v,1708470192,verilog,,Z:/ELEN122/lab5/Verilog Files/imm_mux.v,,data_mux,,,,,,,,
+Z:/ELEN122/lab5/Verilog Files/imm_mux.v,1645059754,verilog,,Z:/ELEN122/lab5/Verilog Files/l5_MEM.v,,imm_mux,,,,,,,,
+Z:/ELEN122/lab5/Verilog Files/l5_MEM.v,1708472844,verilog,,Z:/ELEN122/lab5/Verilog Files/l5_RF.v,,l5_MEM,,,,,,,,
+Z:/ELEN122/lab5/Verilog Files/l5_RF.v,1645059754,verilog,,Z:/ELEN122/lab5/Verilog Files/l5_SM.v,,l5_RF,,,,,,,,
+Z:/ELEN122/lab5/Verilog Files/l5_SM.v,1708471749,verilog,,Z:/ELEN122/lab5/Verilog Files/mux_2_to_1.v,,l5_SM,,,,,,,,
+Z:/ELEN122/lab5/Verilog Files/l5_TB.v,1708471790,verilog,,,,l5_TB,,,,,,,,
+Z:/ELEN122/lab5/Verilog Files/mux_2_to_1.v,1645059754,verilog,,Z:/ELEN122/lab5/Verilog Files/l5_TB.v,,mux_2_to_1,,,,,,,,
+Z:/ELEN122/lab5/lab5/lab5.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,
