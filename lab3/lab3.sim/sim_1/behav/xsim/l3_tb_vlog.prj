@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../given verilog files/A.v" \
+"../../../../given verilog files/RF.v" \
+"../../../../given verilog files/bin_7seg.v" \
+"../../../../given verilog files/display_driver.v" \
+"../../../../given verilog files/l2_adder.v" \
+"../../../../given verilog files/l3_sm.v" \
+"../../../../given verilog files/modified_mux.v" \
+"../../../../given verilog files/mux_2_to_1.v" \
+"../../../../given verilog files/l3_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

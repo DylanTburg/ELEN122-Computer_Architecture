@@ -1,0 +1,14 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+Z:/ELEN122/lab3/given verilog files/A.v,1643668348,verilog,,Z:/ELEN122/lab3/given verilog files/RF.v,,A,,,,,,,,
+Z:/ELEN122/lab3/given verilog files/RF.v,1643668348,verilog,,Z:/ELEN122/lab3/given verilog files/bin_7seg.v,,RF,,,,,,,,
+Z:/ELEN122/lab3/given verilog files/bin_7seg.v,1643668348,verilog,,Z:/ELEN122/lab3/given verilog files/display_driver.v,,bin_7seg,,,,,,,,
+Z:/ELEN122/lab3/given verilog files/display_driver.v,1643668348,verilog,,Z:/ELEN122/lab3/given verilog files/l2_adder.v,,display_driver,,,,,,,,
+Z:/ELEN122/lab3/given verilog files/l2_adder.v,1643668348,verilog,,Z:/ELEN122/lab3/given verilog files/l3_sm.v,,l2_adder,,,,,,,,
+Z:/ELEN122/lab3/given verilog files/l3_sm.v,1706653884,verilog,,Z:/ELEN122/lab3/given verilog files/modified_mux.v,,l3_SM,,,,,,,,
+Z:/ELEN122/lab3/given verilog files/l3_tb.v,1706657244,verilog,,,,l3_tb,,,,,,,,
+Z:/ELEN122/lab3/given verilog files/modified_mux.v,1643668348,verilog,,Z:/ELEN122/lab3/given verilog files/mux_2_to_1.v,,modified_mux,,,,,,,,
+Z:/ELEN122/lab3/given verilog files/mux_2_to_1.v,1643668348,verilog,,Z:/ELEN122/lab3/given verilog files/l3_tb.v,,mux_2_to_1,,,,,,,,
+Z:/ELEN122/lab3/lab3.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,

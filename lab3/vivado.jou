@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Tue Feb 13 10:38:15 2024
+# Process ID: 10120
+# Current directory: Z:/ELEN122/lab3
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8892 Z:\ELEN122\lab3\lab3.xpr
+# Log file: Z:/ELEN122/lab3/vivado.log
+# Journal file: Z:/ELEN122/lab3\vivado.jou
+# Running On: winvdi2004, OS: Windows, CPU Frequency: 3093 MHz, CPU Physical cores: 4, Host memory: 25768 MB
+#-----------------------------------------------------------
+start_gui
+open_project Z:/ELEN122/lab3/lab3.xpr
+update_compile_order -fileset sources_1
