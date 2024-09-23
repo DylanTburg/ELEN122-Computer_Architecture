@@ -1,0 +1,124 @@
+{
+  "design": {
+    "design_info": {
+      "boundary_crc": "0x9F6555119F655511",
+      "device": "xc7a100tcsg324-2",
+      "gen_directory": "../../../../project_1.gen/sources_1/bd/Tutorial_lab",
+      "name": "Tutorial_lab",
+      "rev_ctrl_bd_flag": "RevCtrlBdOff",
+      "synth_flow_mode": "Hierarchical",
+      "tool_version": "2022.1",
+      "validated": "true"
+    },
+    "design_tree": {
+      "c_addsub_0": ""
+    },
+    "ports": {
+      "a": {
+        "direction": "I",
+        "left": "31",
+        "right": "0"
+      },
+      "b": {
+        "direction": "I",
+        "left": "31",
+        "right": "0"
+      },
+      "add": {
+        "direction": "I"
+      },
+      "s": {
+        "direction": "O",
+        "left": "31",
+        "right": "0",
+        "parameters": {
+          "LAYERED_METADATA": {
+            "value": "xilinx.com:interface:datatypes:1.0 {DATA {datatype {name {attribs {resolve_type immediate dependency {} format string minimum {} maximum {}} value data} bitwidth {attribs {resolve_type generated dependency bitwidth format long minimum {} maximum {}} value 32} bitoffset {attribs {resolve_type immediate dependency {} format long minimum {} maximum {}} value 0} integer {signed {attribs {resolve_type generated dependency signed format bool minimum {} maximum {}} value FALSE}}}} DATA_WIDTH 32}",
+            "value_src": "ip_prop"
+          }
+        }
+      },
+      "c_out": {
+        "direction": "O",
+        "parameters": {
+          "LAYERED_METADATA": {
+            "value": "undef",
+            "value_src": "default_prop"
+          }
+        }
+      }
+    },
+    "components": {
+      "c_addsub_0": {
+        "vlnv": "xilinx.com:ip:c_addsub:12.0",
+        "xci_name": "Tutorial_lab_c_addsub_0_1",
+        "xci_path": "ip\\Tutorial_lab_c_addsub_0_1\\Tutorial_lab_c_addsub_0_1.xci",
+        "inst_hier_path": "c_addsub_0",
+        "parameters": {
+          "A_Type": {
+            "value": "Unsigned"
+          },
+          "A_Width": {
+            "value": "32"
+          },
+          "Add_Mode": {
+            "value": "Add_Subtract"
+          },
+          "B_Type": {
+            "value": "Unsigned"
+          },
+          "B_Value": {
+            "value": "00000000000000000000000000000000"
+          },
+          "B_Width": {
+            "value": "32"
+          },
+          "CE": {
+            "value": "false"
+          },
+          "C_Out": {
+            "value": "true"
+          },
+          "Latency": {
+            "value": "0"
+          },
+          "Out_Width": {
+            "value": "32"
+          }
+        }
+      }
+    },
+    "nets": {
+      "a_1": {
+        "ports": [
+          "a",
+          "c_addsub_0/A"
+        ]
+      },
+      "add_1": {
+        "ports": [
+          "add",
+          "c_addsub_0/ADD"
+        ]
+      },
+      "b_1": {
+        "ports": [
+          "b",
+          "c_addsub_0/B"
+        ]
+      },
+      "c_addsub_0_C_OUT": {
+        "ports": [
+          "c_addsub_0/C_OUT",
+          "c_out"
+        ]
+      },
+      "c_addsub_0_S": {
+        "ports": [
+          "c_addsub_0/S",
+          "s"
+        ]
+      }
+    }
+  }
+}

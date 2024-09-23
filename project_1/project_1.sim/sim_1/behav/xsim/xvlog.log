@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "Z:/ELEN122/project_1/project_1.ip_user_files/bd/Tutorial_lab/sim/Tutorial_lab.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Tutorial_lab
+INFO: [VRFC 10-2263] Analyzing Verilog file "Z:/ELEN122/project_1/project_1.srcs/sim_1/new/adder_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder_tb

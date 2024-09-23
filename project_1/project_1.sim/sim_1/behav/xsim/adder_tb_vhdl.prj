@@ -1,0 +1,6 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_1.ip_user_files/bd/Tutorial_lab/ip/Tutorial_lab_c_addsub_0_1/sim/Tutorial_lab_c_addsub_0_1.vhd" \
+
+# Do not sort compile order
+nosort
